@@ -1,5 +1,7 @@
-# Arc Dark
+# Fantome Dark
 
-A clean and simple adaptation of the flat and beautiful [Arc Theme](https://github.com/horst3180/arc-theme) for Mailspring that allows you to focus on what matters most: your emails.
+A theme for Mailspring that matches @addy-dclxvi's [Fantome Theme](https://github.com/addy-dclxvi/gtk-theme-collections/tree/master/Fantome).
 
-![](./preview.jpg)
+Modified version of @mjohnson8165's [Mailspring Arc Dark Theme](https://github.com/mjohnson8165/mailspring-arc-dark).
+
+![](preview.png)

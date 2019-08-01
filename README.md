@@ -5,3 +5,5 @@ A theme for Mailspring that matches addy-dclxvi's [Fantome Theme](https://github
 Modified version of mjohnson8165's [Mailspring Arc Dark Theme](https://github.com/mjohnson8165/mailspring-arc-dark).
 
 ![](preview.png)
+
+## I no longer use Mailspring, so the only commits from now on will be issue fixes
